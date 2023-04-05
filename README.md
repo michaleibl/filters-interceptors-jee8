@@ -1,4 +1,4 @@
-# PoC: Filters and Interceptors in Java EE 8
+# Filters and Interceptors in Java EE 8
 
 This is simple showcase for JAX-RS filters and interceptors, intentionally written in 'old' Java EE 8.
 
